@@ -1,10 +1,10 @@
 {
-  "options":
+  "Options":
     {
-      "parsel": "option[]",
-      "bulk": "option[]"
+      "parsel": "Option[]",
+      "bulk": "Option[]"
     },
-  "option":
+  "Option":
     {
       "name": "string",
       "enabled": "boolean"
